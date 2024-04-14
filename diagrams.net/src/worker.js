@@ -67,7 +67,7 @@ export class Worker {
         await page.setContent(`<!DOCTYPE html>  
 <html>
 <head>  
-<meta name="viewport" content="initial-scale=10.0, user-scalable=no" />  
+<meta name="viewport" content="initial-scale=5.0, user-scalable=no" />  
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
 </head>  
 <body> 
